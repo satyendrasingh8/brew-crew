@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "817034928136",
+    "firebase_url": "https://satyendra-brew-crew-4fb43.firebaseio.com",
+    "project_id": "satyendra-brew-crew-4fb43",
+    "storage_bucket": "satyendra-brew-crew-4fb43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817034928136:android:485ce394d9cffa9dfa71bd",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817034928136-cimu0ulvvkfcurph2dmn15ph3prkpi4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdNdZjASGCNZzwcEVzcOo57kTAJtYCXp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817034928136-cimu0ulvvkfcurph2dmn15ph3prkpi4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
